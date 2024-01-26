@@ -20,6 +20,12 @@ pre code {
     color: white;
     margin-top: 24px;
 }
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin-left: 320px; */
+}
 
 .form-control {
     color: white;

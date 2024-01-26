@@ -41,6 +41,7 @@ class App extends Component {
 
     return (
       <div className='container'>
+        <h1 className='head'>MarkDown Editor</h1>
         <div className='row'>
           <div className='col-sm-6'>
             <textarea
